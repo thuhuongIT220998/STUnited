@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-       width: 1440px;
+       overflow-x: hidden;
    }
 header{
        width: 100%;
